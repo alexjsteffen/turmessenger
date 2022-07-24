@@ -1,5 +1,5 @@
 {
-  "name": "taurapp",
+  "name": "TurMessenger",
   "scripts": {
     "tauri": "tauri"
   },
