@@ -4,6 +4,7 @@ TurMessenger is a Facebook Messenger desktop client powered by [Tauri](https://t
 
 TurMessenger is an experimental client and is initially created to test out Tauri itself. So, it might lack some features and might be buggy at times.
 
+### It works. But needs a LOT of work.
 
 ## Installing
 
